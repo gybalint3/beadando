@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+    font-size: 50px;
+    color: #FCA510;
+    background-image: url("https://elmenyvezetes.hu/assets/media/product/2000/mercedesamggtselmenyvezetes_1.jpg");
+    padding: 100px;
+    text-shadow: 10px 10px 5px  rgb(117, 113, 113);
+    background-size: auto;
+    letter-spacing: 10px;
+    font-family: Georgia, serif;
+    margin: auto;
+    
+}
+
+body{
+    background-image: url(https://wallpaper.forfun.com/fetch/09/09fc257d2ad3cf5f13ee3555900f441b.jpeg);
+    font-family: Georgia, serif;;
+}
